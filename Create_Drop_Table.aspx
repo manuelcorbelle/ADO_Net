@@ -10,8 +10,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <asp:Button ID="btnCreateTable" Text="Create Table" runat="server" OnClick="CreateTable" />
-    <asp:Button ID="btnDropTable" Text="Drop Table" runat="server" OnClick="DropTable" />
+    <asp:Button ID="btnCreateTable" Text="Crear Tabla" runat="server" OnClick="CreateTable" />
+    <asp:Button ID="btnDropTable" Text="Borrar Tabla" runat="server" OnClick="DropTable" />
         <br />
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
         <br />
