@@ -5,7 +5,7 @@
     <style type="text/css">
     html
     {
-        background-color:silver;
+        background-color:red;
     }
     #content
     {
